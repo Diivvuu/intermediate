@@ -1,5 +1,5 @@
 import "./App.css";
-import JobApplicationForm from "./compnents/JobApplicationForm";
+import JobApplicationForm from "./components/JobApplicationForm";
 
 function App() {
   return (
